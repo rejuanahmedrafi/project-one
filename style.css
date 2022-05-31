@@ -11,6 +11,12 @@ body{
 .half-width img{
     width: 100%;
 }
+#dream{
+    width: 80%;
+}
+#myself{
+    width: 90%;
+}
 section{
     height: 500px;
     padding-bottom: 150px;
